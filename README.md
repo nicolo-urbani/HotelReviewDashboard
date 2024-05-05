@@ -21,12 +21,12 @@ Finally, a dashboard is proposed that effectively performs sentiment analysis in
 ## Dashboard
 A sceen of the builded dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](img/dashboard.png)
 
 ## Review Sentiment Sample
 An example of the sentiment analysis of a user review
 
-![Dashboard](images/review-sentiment.png)
+![Dashboard](img/review-sentiment.png)
 
 
 
