@@ -18,7 +18,15 @@ On the other hand, consumers may benefit from the analyses presented as they are
 
 Finally, a dashboard is proposed that effectively performs sentiment analysis in real-time, providing a user-friendly tool for both business and consumer users to leverage the potential of the proposed models to extract meaningful insights and make data-driven decisions.
 
+## Dashboard
+A sceen of the builded dashboard
 
+![Dashboard](images/dashboard.png)
+
+## Review Sentiment Sample
+An example of the sentiment analysis of a user review
+
+![Dashboard](images/review-sentiment.png)
 
 
 
